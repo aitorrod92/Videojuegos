@@ -23,4 +23,4 @@ and many more stuff...
 
 I might come back to it one day in order to repair some minor issues, translate it into english and make it more aesthetic, intuitive and complete.
 
-It is coded in C# and uses Unity as game engine. Available for PC and Android.
+It is coded in C#, uses Unity as game engine and runs on Android.
